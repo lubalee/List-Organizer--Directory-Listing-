@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<videos>
+	<video>
+		<company>Sample</company>
+		<rep>Name</rep>
+		<job>Insurance Agent</job>
+		<url>#</url>
+	</video>	
+<video><company>New Sample</company><rep>Joe</rep><job>Register</job><url>#</url></video><video><company>Other Sample</company><rep>Jon</rep><job>Cashier</job><url>#</url></video><video><company>Last Company</company><rep>Chris</rep><job>Manager</job><url>http://youtube.com</url></video></videos>
